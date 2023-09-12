@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@media screen and (max-width: 700px) {div {margin-top: 400px;
+@media screen and (max-width: 700px) {main {margin-top: ;
     
 }}
         
@@ -7,11 +7,11 @@
             background-image: url('imagens/espaco.jpg');
             background-position: center top;
         }
-        div {
+        main {
             background-image: url('imagens/astronauta.png');
-            background-position: center center;
-            width: 400x;
-            height: 550px ;
-            background-repeat: no-repeat;
-            margin-top: 15%;
+            width: 509px;
+            height: 500px;
+            margin: auto;
+            margin-top: 160px;
+            
         }
